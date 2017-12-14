@@ -1,4 +1,4 @@
-# Discord-AppImage
+# Discord-Canary-AppImage
 AppImage builds for [Discord Canary](https://discordapp.com)
 
 To use an AppImage, just download it, `chmod a+x` the AppImage file, then run it!
